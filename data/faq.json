@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "question": "How can I log in to my account?",
+    "answer": "You can log in using your registered email address and password on the login page.",
+    "language": "en",
+    "category": "login"
+  },
+  {
+    "id": 2,
+    "question": "I cannot access my account. What should I do?",
+    "answer": "Please check your login credentials and make sure your account is active. If the issue continues, try resetting your password.",
+    "language": "en",
+    "category": "login"
+  },
+  {
+    "id": 3,
+    "question": "Why am I getting an error when signing in?",
+    "answer": "Login errors may occur due to incorrect credentials or temporary system issues. Please try again later or reset your password.",
+    "language": "en",
+    "category": "login"
+  },
+  {
+    "id": 4,
+    "question": "How do I reset my password?",
+    "answer": "Click on the 'Forgot password' option on the login page and follow the instructions sent to your email.",
+    "language": "en",
+    "category": "password"
+  },
+  {
+    "id": 5,
+    "question": "I forgot my password. How can I create a new one?",
+    "answer": "You can create a new password by using the password recovery option on the login page.",
+    "language": "en",
+    "category": "password"
+  },
+  {
+    "id": 6,
+    "question": "How secure is my account information?",
+    "answer": "We use industry-standard security measures to protect your account information.",
+    "language": "en",
+    "category": "security"
+  },
+  {
+    "id": 7,
+    "question": "How can I update my billing information?",
+    "answer": "Billing information can be updated from the billing section in your account settings.",
+    "language": "en",
+    "category": "billing"
+  },
+  {
+    "id": 8,
+    "question": "What payment methods are supported?",
+    "answer": "We currently support credit card payments and PayPal.",
+    "language": "en",
+    "category": "billing"
+  },
+  {
+    "id": 9,
+    "question": "How can I view my invoices?",
+    "answer": "You can view and download invoices from the billing history section in your account.",
+    "language": "en",
+    "category": "billing"
+  },
+  {
+    "id": 10,
+    "question": "Како можам да се најавам на мојата сметка?",
+    "answer": "Можете да се најавите со вашата е-пошта и лозинка на страната за најава.",
+    "language": "mk",
+    "category": "login"
+  },
+  {
+    "id": 11,
+    "question": "Не можам да се најавам. Што да направам?",
+    "answer": "Проверете дали податоците за најава се точни или обидете се со ресетирање на лозинката.",
+    "language": "mk",
+    "category": "login"
+  },
+  {
+    "id": 12,
+    "question": "Како да ја ресетирам лозинката?",
+    "answer": "Кликнете на 'Forgot password' и следете ги инструкциите испратени на е-пошта.",
+    "language": "mk",
+    "category": "password"
+  },
+  {
+    "id": 13,
+    "question": "Кои начини на плаќање се поддржани?",
+    "answer": "Поддржуваме плаќање со кредитни картички и PayPal.",
+    "language": "mk",
+    "category": "billing"
+  },
+  {
+    "id": 14,
+    "question": "Што нуди вашиот производ?",
+    "answer": "Нашиот производ нуди алатки за автоматизација и подобрување на корисничката поддршка.",
+    "language": "mk",
+    "category": "product"
+  },
+  {
+    "id": 15,
+    "question": "Како можам да контактирам со корисничка поддршка?",
+    "answer": "Можете да не контактирате преку формата за поддршка или преку е-пошта.",
+    "language": "mk",
+    "category": "support"
+  }
+]
